@@ -1,0 +1,8 @@
+﻿{
+  "Id": "CmsSkipCaseOpening",
+  "DisplayName": "Skip Case Opening Animation",
+  "Version": "1.0.0",
+  "EntryMethod": "CmsSkipCaseOpening.CmsSkipCaseOpening.Load",
+  "HomePage": "https://github.com/Alien-AV/CmsSkipCaseOpening",
+  "Repository": "https://raw.githubusercontent.com/Alien-AV/CmsSkipCaseOpening/master/Repository.json"
+}
